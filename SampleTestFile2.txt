@@ -1,3 +1,1 @@
 This is sample file2
-
-Test revert 2
